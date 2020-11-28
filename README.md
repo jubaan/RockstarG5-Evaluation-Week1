@@ -21,8 +21,8 @@ docker build -t csv-reader .
 docker run --name csv-container -d -p 5050:5050 -v $(pwd)/data:/usr/src/app/data
 csv-reader
 ```
+- Open link in your preferred browser
 - Stop the image and remove it
 ```
 docker stop $(docker ps -aq) && docker rm $(docker ps -aq)
 ```
-- Open link in your preferred browser
