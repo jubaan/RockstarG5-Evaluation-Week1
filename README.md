@@ -136,6 +136,9 @@ See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issu
 - Javier Zepeda - Java Developer
 - [Enroute](http://www.enroutesystems.com)
 
+## LICENSE
+- [MIT License](LICENSE.md)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/jubaan/RockstarG5-Evaluation-Week1.svg?style=flat-square
 [contributors-url]: https://github.com/jubaan/RockstarG5-Evaluation-Week1/graphs/contributors
