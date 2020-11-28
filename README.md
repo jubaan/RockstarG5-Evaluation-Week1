@@ -124,7 +124,7 @@ See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issu
     <a target="_blank" href="https://github.com/jubaan?tab=repositories">
         My Repositories
     </a> &nbsp;|
-    <a target="_blank" href="www.linkedin.com/in/jubaan">
+    <a target="_blank" href="https://www.linkedin.com/in/jubaan">
       LinkedIn
     </a> &nbsp;|
     <a target="_blank" href="https://twitter.com/AnoverosJulio">
