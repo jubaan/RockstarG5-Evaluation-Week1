@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h2 align="center">Rockstar G5 | w1 - Evalutaion</h2>
+  <h2 align="center">Rockstar G5 | w1 - Evaluation</h2>
   <p align="center">
     This repository is the part of the evaluations at Enroute Rockstar G5
     apprenticeship program (Nov 2020). The instructor for the first week was
