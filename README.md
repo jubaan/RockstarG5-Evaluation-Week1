@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <h2 align="center">Rockstar G5 | w1 - Evaluation</h2>
-  <img src="thoughts.png" alt="thoughts into action">
+  <img align="center" src="thoughts.png" alt="thoughts into action">
   <p align="center">
     This repository is part of the evaluations at Enroute Rockstar G5
     apprenticeship program (Nov 2020). The instructor for the first week was
