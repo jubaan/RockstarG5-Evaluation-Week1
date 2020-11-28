@@ -132,7 +132,7 @@ See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issu
     </a>
 </p>
 
-## Acknowledgements
+## Acknowledgments
 - Javier Zepeda - Java Developer
 - [Enroute](http://www.enroutesystems.com)
 
