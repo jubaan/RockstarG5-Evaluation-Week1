@@ -120,13 +120,13 @@ See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issu
     <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=julio.ab@outlook.com
 ">
       julio.ab@outlook.com
-    </a> &nbsp; |
+    </a> &nbsp;|
     <a target="_blank" href="https://github.com/jubaan?tab=repositories">
         My Repositories
-    </a> &nbsp; |
+    </a> &nbsp;|
     <a target="_blank" href="www.linkedin.com/in/jubaan">
       LinkedIn
-    </a> &nbsp; |
+    </a> &nbsp;|
     <a target="_blank" href="https://twitter.com/AnoverosJulio">
       Twitter
     </a>
