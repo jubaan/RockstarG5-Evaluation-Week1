@@ -1,5 +1,3 @@
-# Rockstar 5G | Week 1 - Evaluation
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -101,6 +99,16 @@ docker-compose up -d
 ```
 docker-compose down
 ```
+#### Known Issues
+
+If you have run the `docker` version first and whant to run the
+`docker-compose` alternative run this command:
+```
+docker-compose up -d --build
+```
+This will eliminate the image created with `docker` and build a new one
+using `docker-build`.
+
 ## Roadmap
 
 See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issues) for a list of proposed features (and known issues).
