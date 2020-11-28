@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  app:
+    build: .
+    ports:
+      - 5050:5050
+    working_dir: /usr/src/app
+    volumes:
+      - ./:/usr/src/app
