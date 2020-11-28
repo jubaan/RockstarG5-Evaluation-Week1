@@ -9,7 +9,7 @@
 <p align="center">
   <h2 align="center">Rockstar G5 | w1 - Evaluation</h2>
   <p align="center">
-    This repository is the part of the evaluations at Enroute Rockstar G5
+    This repository is part of the evaluations at Enroute Rockstar G5
     apprenticeship program (Nov 2020). The instructor for the first week was
     Javier Zepeda a Java Developer at Enroute Systems.
     <a href="https://github.com/jubaan/RockstarG5-Evaluation-Week1"><strong>Explore the docs »</strong></a>
@@ -43,9 +43,9 @@ knowledge learned during the first week of the apprenticeship.
   - Converts its content to JSON format
 - Use **Flask** to render the JSON output in the browser on port 5050 
 - Deploy the app to **Linode** Cloud VM
-- Use **Docker** to convert the app into a image container
-- Run de application deatach
-- Allow portforwarding and make the app availible through an `http` link
+- Use **Docker** to convert the app into an image container
+- Run de application detach
+- Allow port-forwarding and make the app available through an `HTTP` link
 
 ### Built With
 
@@ -54,12 +54,12 @@ The project was developed using the following technologies:
 - Docker
 - Linode
 
-## Instalation Guide
+## Installation Guide
 
 ### Prerequisites
 
-To be able to run the commands and have a working copy is necesary that your 
-local enviroment has already
+To be able to run the commands and have a working copy is necessary that your 
+local environment has already
 installed:
 - Docker
 - Docker Compose
@@ -101,7 +101,7 @@ docker-compose down
 ```
 #### Known Issues
 
-If you have run the `docker` version first and whant to run the
+If you have run the `docker` version first and want to run the
 `docker-compose` alternative run this command:
 ```
 docker-compose up -d --build
