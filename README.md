@@ -5,7 +5,7 @@ apprenticeship.
 
 ## Prerequisite
 - Docker
-- Python
+- Python 3
 
 ## Instructions
 - Clone repository
