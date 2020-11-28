@@ -115,7 +115,7 @@ See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issu
 
 ## Contact
 <p align="center">Project Link: <a href="https://github.com/jubaan/RockstarG5-Evaluation-Week1">RockstarG5 | w1 - Evaluation</p>
-<p align="center"><a href="https://github.com/jubaan">Julio Añoveros</a></p>
+<p align="center">GitHub: <a href="https://github.com/jubaan">Julio Añoveros</a></p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=julio.ab@outlook.com
 ">
