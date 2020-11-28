@@ -7,7 +7,7 @@ apprenticeship.
 - Docker
 - Python
 
-## Instructins
+## Instructions
 - Clone repository
 ```
 git clone https://github.com/jubaan/w1-rockstarG5-julio-anoveros.git
