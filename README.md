@@ -114,8 +114,8 @@ using `docker-build`.
 See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issues) for a list of proposed features (and known issues).
 
 ## Contact
-<p align="center">Project Link: [ - Evaluacion"](https://github.com/jubaan/RockstarG5-Evaluation-Week1)</p>
-<p align="center">Julio Añoveros - [@jubaan](https://github.com/jubaan)</p>
+<p align="center">Project Link: <a href="https://github.com/jubaan/RockstarG5-Evaluation-Week1">RockstarG5 | w1 - Evaluation</p>
+<p align="center"><a href="https://github.com/jubaan">Julio Añoveros</a></p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=julio.ab@outlook.com
 ">
@@ -149,4 +149,3 @@ See the [open issues](https://github.com/jubaan/RockstarG5-Evaluation-Week1/issu
 [license-url]: https://github.com/jubaan/RockstarG5-Evaluation-Week1/blob/master/LICENSE.txt
 [linkedin-shield2]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url2]: https://www.linkedin.com/in/jubaan/
-[mobile]: app/assets/images/phone.png
